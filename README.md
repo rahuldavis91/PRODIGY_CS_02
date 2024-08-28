@@ -19,4 +19,4 @@ A simple Python tool for encrypting and decrypting images using pixel manipulati
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/pixel-manipulation-image-encryption.git
+   git clone https://github.com/rahuldavis91/image_encryption_tool.py
